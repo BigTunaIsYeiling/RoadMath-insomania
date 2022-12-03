@@ -1,0 +1,33 @@
+_id: req_5ee1ac39d90a46ffb932cb1418fd27f9
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670069462688
+created: 1670067834325
+url: http://localhost:5000/users/renewpass/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2Mzg4ZThkYTk2MTY3MTRiNjRhZTg1MGUiLCJpYXQiOjE2NzAwNjk0MDgsImV4cCI6MTY3MDA2OTUyOH0.psRZ2vSashfyUCGCxC4YM8hjzWqaKiCKeF_G844R_ss
+name: renewPassword
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_7ea33b459c044551a8b3e19abab3a5d0
+      name: password
+      value: "9812485673"
+      description: ""
+    - id: pair_03ea342a693e4f46bda4400f84ada240
+      name: repassword
+      value: "9812485673"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1670067834325
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

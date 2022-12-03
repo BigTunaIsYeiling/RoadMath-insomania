@@ -1,0 +1,29 @@
+_id: req_567fd01fd9f54626989b0ee45cf6cc3c
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669919236115
+created: 1669918859762
+url: http://localhost:5000/forums/addComment/6388f1c3fb1442b69f599396
+name: Add comment
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_e5c0576894de419eb728e9d9143b57a2
+      name: body
+      value: hahahahahhahahahhahahahahahahahahaha
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1669918859762
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

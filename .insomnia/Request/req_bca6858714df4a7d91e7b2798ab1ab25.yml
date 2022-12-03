@@ -1,0 +1,21 @@
+_id: req_bca6858714df4a7d91e7b2798ab1ab25
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669918912505
+created: 1669918871858
+url: ""
+name: Delete Comments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669918871858
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_56d7ce0aa37c41f4ac7eb39e9f41a4e0
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669918895262
+created: 1669918869882
+url: ""
+name: Update Comment
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669918869882
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

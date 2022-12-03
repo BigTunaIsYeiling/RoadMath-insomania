@@ -1,0 +1,21 @@
+_id: req_49fe73fd0c0940e1a3f4135bee17a12a
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669915183466
+created: 1669884535899
+url: http://localhost:5000/users/refresh
+name: refresh access
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669884535899
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

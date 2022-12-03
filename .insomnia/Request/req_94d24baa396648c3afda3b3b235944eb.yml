@@ -1,0 +1,21 @@
+_id: req_94d24baa396648c3afda3b3b235944eb
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670070974174
+created: 1670070882460
+url: http://localhost:5000/score/getscore/638b0ab4a92c4a82f40d8667
+name: get Quiz Score
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670070882460
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

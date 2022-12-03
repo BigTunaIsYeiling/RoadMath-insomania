@@ -1,0 +1,21 @@
+_id: req_12424067d6a443ebaafd8b4e994a8337
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669842718167
+created: 1669842609209
+url: http://localhost:5000/
+name: hello Welocme
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669842609209
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

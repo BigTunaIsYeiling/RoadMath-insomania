@@ -1,0 +1,21 @@
+_id: req_c24c1629804d4f54a836e7cb4deeda0a
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669884576515
+created: 1669884558579
+url: http://localhost:5000/users/logout
+name: log out
+description: ""
+method: POST
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669884558579
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

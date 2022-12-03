@@ -1,0 +1,21 @@
+_id: req_20d020cd87394e27adc6f5a92bc0a3ff
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670010994665
+created: 1670010926084
+url: http://localhost:5000/quiz
+name: all Quizs
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670010926084
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_6899a815d64b4619b0355c5886271d7d
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670074455952
+created: 1669884466636
+url: http://localhost:5000/users/signin
+name: sign in
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_30ba0a3a0829498e9476b39e98d5ca16
+      name: email
+      value: roadmathofficial@gmail.com
+      description: ""
+    - id: pair_e76685d162c44aef9bd773e88018d638
+      name: password
+      value: "9812485673"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1669884466636
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

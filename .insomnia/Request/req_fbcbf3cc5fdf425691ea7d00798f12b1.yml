@@ -1,0 +1,29 @@
+_id: req_fbcbf3cc5fdf425691ea7d00798f12b1
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670074648245
+created: 1670010935658
+url: http://localhost:5000/quiz/AddQuiz
+name: add Quiz
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"title":"Calculations for begginers",
+    	"category":"Math"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670010935658
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_ee0b310918a747d8bb72cc552929169c
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670076096620
+created: 1670058107003
+url: http://localhost:5000/quiz/testq/638b0ab4a92c4a82f40d8667/638b50a47eb29576710bda23
+name: Test Question
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_003d8cd91d874a928507d064e8eac992
+      name: answer
+      value: "30"
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1670058107003
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

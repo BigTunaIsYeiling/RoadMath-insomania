@@ -1,0 +1,29 @@
+_id: req_f29b40558429431f85ab551d6d70c22c
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670069561355
+created: 1670067822149
+url: http://localhost:5000/users/forgetpass
+name: Forget Password
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_f22be54aeca7459eb4fdfd186641d11f
+      name: email
+      value: roadmathofficial@gmail.com
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1670067822149
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

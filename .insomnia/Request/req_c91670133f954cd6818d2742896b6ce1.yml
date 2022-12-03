@@ -1,0 +1,45 @@
+_id: req_c91670133f954cd6818d2742896b6ce1
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669916888491
+created: 1669845221400
+url: http://localhost:5000/users/register
+name: register
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_de7c222f7e214104bd5b71399ab38437
+      name: email
+      value: ahmda@yahoo.com
+      description: ""
+    - id: pair_aa03679b877345009022f36f176a3e7e
+      name: password
+      value: "12345678"
+      description: ""
+    - id: pair_7043763c47024f6692d4010518679aac
+      name: firstName
+      value: ahmed
+      description: ""
+    - id: pair_d7f2d9800d3741f9bbef43871574b96e
+      name: lastName
+      value: ali
+      description: ""
+    - id: pair_a7bd27e43d0a483fb79a9b0f53dd9651
+      name: username
+      value: jakarta 772
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1669845221400
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

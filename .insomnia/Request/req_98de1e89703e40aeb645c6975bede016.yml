@@ -1,0 +1,33 @@
+_id: req_98de1e89703e40aeb645c6975bede016
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669919167683
+created: 1669918847828
+url: http://localhost:5000/forums/addForum
+name: Add forum
+description: ""
+method: POST
+body:
+  mimeType: application/x-www-form-urlencoded
+  params:
+    - id: pair_3425b909388c47b690a04019cf5f8dc0
+      name: title
+      value: crsitov waltsaz
+      description: ""
+    - id: pair_52bbd8ede88848c09ef7f8f5ac3be022
+      name: body
+      value: "aaadasdasdas askdjkasdj jkjik jikl l;kmlk jklsadjkkasklk "
+      description: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/x-www-form-urlencoded
+authentication: {}
+metaSortKey: -1669918847828
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

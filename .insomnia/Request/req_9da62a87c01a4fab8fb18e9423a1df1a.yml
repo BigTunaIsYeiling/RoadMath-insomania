@@ -1,0 +1,21 @@
+_id: req_9da62a87c01a4fab8fb18e9423a1df1a
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670074811039
+created: 1670074799987
+url: http://localhost:5000/score/
+name: Get Scores
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670074799987
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

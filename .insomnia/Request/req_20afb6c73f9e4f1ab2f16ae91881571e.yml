@@ -1,0 +1,21 @@
+_id: req_20afb6c73f9e4f1ab2f16ae91881571e
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1669884521362
+created: 1669884505444
+url: http://localhost:5000/users/user
+name: Get user Information
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1669884505444
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,65 @@
+_id: req_c83f515fbef346dba4aaa6526063ebd7
+type: Request
+parentId: wrk_d84310c5696a40cfbaaa2ca8ad2c66c9
+modified: 1670076398538
+created: 1670010938091
+url: http://localhost:5000/quiz/addQuestions/638b0ab4a92c4a82f40d8667
+name: Add questions
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"questions":[
+    		{
+    					"title": "2 * 15",
+    					"answers": [
+    						{
+    							"answer": 30
+    						},
+    						{
+    							"answer": 20
+    						},
+    						{
+    							"answer": 10
+    						},
+    						{
+    							"answer": 25
+    						}
+    					],
+    					"trueanswer": 30	
+    		},
+    		{
+    					"title": "11 + 24",
+    					"answers": [
+    						{
+    							"answer": 25
+    						},
+    						{
+    							"answer": 30
+    						},
+    						{
+    							"answer": 35
+    						},
+    						{
+    							"answer": 55
+    						}
+    					],
+    					"trueanswer": 35
+    		}
+    	]
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670010938091
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
